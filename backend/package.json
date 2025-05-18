@@ -25,7 +25,7 @@
     "@medusajs/cli": "latest",
     "@medusajs/core-flows": "latest",
     "@medusajs/framework": "latest",
-    "@medusajs/medusa": "latest",
+    "@medusajs/medusa": "git+https://github.com/chrisgeepacific/medusa.git#develop",
     "@medusajs/notification-sendgrid": "latest",
     "@medusajs/payment-stripe": "latest",
     "@medusajs/workflow-engine-redis": "latest",
